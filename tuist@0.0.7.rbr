@@ -1,4 +1,4 @@
-class TuistAt007 < Formula
+class _FORMULA_ < Formula
   desc "Create, maintain, and interact with Xcode projects at scale"
   homepage "https://tuist.io"
   url _URL_

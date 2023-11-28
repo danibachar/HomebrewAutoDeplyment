@@ -1,7 +1,7 @@
 class TuistAt007 < Formula
   desc "Create, maintain, and interact with Xcode projects at scale"
   homepage "https://tuist.io"
-  url ://github.com/danibachar/WorkflowTagTests/archive/refs/tags/0.0.7.tar.gz
+  url _URL_
   sha256 _SHA_
   license "MIT"
   head "https://github.com/tuist/tuist.git", branch: "main"

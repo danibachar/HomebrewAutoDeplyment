@@ -1,4 +1,4 @@
-class TuistenvAt007 < Formula
+class _FORMULA_ < Formula
     desc "Managing Tuist versions"
     homepage "https://tuist.io"
     url _URL_
