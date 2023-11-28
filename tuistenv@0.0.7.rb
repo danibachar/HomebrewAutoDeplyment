@@ -1,7 +1,7 @@
 class TuistenvAt007 < Formula
     desc "Managing Tuist versions"
     homepage "https://tuist.io"
-    url _URL_
+    url "https://github.com/danibachar/WorkflowTagTests/archive/refs/tags/0.0.7.tar.gz"
     sha256 _SHA_
     license "MIT"
     head "https://github.com/tuist/tuist.git", branch: "main"
